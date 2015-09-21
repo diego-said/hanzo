@@ -1,0 +1,7 @@
+<resources>
+
+    <!-- REST -->
+    <integer name="connection_timeout">10000</integer>
+    <integer name="socket_timeout">30000</integer>
+
+</resources>

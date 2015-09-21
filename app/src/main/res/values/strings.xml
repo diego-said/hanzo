@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">Hanzo</string>
 
+    <!-- Backend -->
+    <string name="backend_api">https://enterprise.hanzo.com.br/contents/8/fields.json</string>
+
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
 </resources>
